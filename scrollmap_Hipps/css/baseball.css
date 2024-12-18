@@ -1,0 +1,49 @@
+body {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+nav,
+h1,
+.author {
+    font-family: "Ms Madi", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+
+    font-size: 28px;
+}
+
+/***Footer Style***/
+footer {
+    background-color: white;
+    padding: .2%;
+    padding-right: 1%;
+    text-align: right;
+}
+
+footer span {
+    font-size: 20;
+    text-decoration: none;
+}
+
+.footer-text {
+    color: #000000;
+}
+
+.ms-madi-regular {
+    font-family: "Ms Madi", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.quicksand-400 {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
