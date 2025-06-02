@@ -378,9 +378,9 @@ footer span {
 
 .resume hr {
     color: #E63946;
-    border: 3px solid;
+    border: 2px solid;
     border-radius: 20px;
-    fill-opacity: 100%;
+    opacity: 100%;
 }
 
 .placetime {
